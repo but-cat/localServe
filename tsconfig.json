@@ -1,0 +1,33 @@
+{
+	"compilerOptions": {
+		"target": "es2019",
+		"module": "esnext",
+		"strict": true,
+		"jsx": "preserve",
+		"importHelpers": true,
+		"moduleResolution": "node",
+		"experimentalDecorators": true,
+		"skipLibCheck": true,
+		"esModuleInterop": true,
+		"allowSyntheticDefaultImports": true,
+		"sourceMap": true,
+		"baseUrl": ".",
+		"paths": {
+			"@/*": ["src/*"],
+			"@root/*": ["./*"],
+		},
+		"lib": [
+			"esnext",
+			// "dom",
+			// "dom.iterable",
+			"scripthost",
+		]
+	},
+	"include": [
+		"src/**/*.ts",
+		"src/**/*.d.ts",
+	],
+	"exclude": [
+		"node_modules"
+	]
+}

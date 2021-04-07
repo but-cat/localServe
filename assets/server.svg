@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	y="0px" viewBox="0 0 508 508" style="enable-background:new 0 0 508 508;" xml:space="preserve">
+	<circle style="fill: #66ccff;" cx="254" cy="254" r="254" />
+	<rect x="245" y="156.6" style="fill:#527F99;" width="18" height="229.2" />
+	<path style="fill:#2C424F;" d="M380,86.4H128c-6.8,0-12.2,5.4-12.2,12.2V155c0,6.8,5.4,12.2,12.2,12.2h252c6.8,0,12.2-5.4,12.2-12.2
+	V98.6C392.2,91.8,386.8,86.4,380,86.4z" />
+	<g>
+		<rect x="132.4" y="117.6" style="fill:#E65336;" width="18.2" height="18.2" />
+		<rect x="165.4" y="117.6" style="fill:#E65336;" width="18.2" height="18.2" />
+		<rect x="198.6" y="117.6" style="fill:#E65336;" width="18.2" height="18.2" />
+	</g>
+	<path style="fill:#2C424F;" d="M380,178.4H128c-6.8,0-12.2,5.4-12.2,12.2V247c0,6.8,5.4,12.2,12.2,12.2h252
+	c6.8,0,12.2-5.4,12.2-12.2v-56.4C392.2,183.8,386.8,178.4,380,178.4z" />
+	<g>
+		<rect x="132.4" y="209.8" style="fill:#E65336;" width="18.2" height="18.2" />
+		<rect x="165.4" y="209.8" style="fill:#E65336;" width="18.2" height="18.2" />
+		<rect x="198.6" y="209.8" style="fill:#E65336;" width="18.2" height="18.2" />
+	</g>
+	<path style="fill:#2C424F;" d="M380,270.4H128c-6.8,0-12.2,5.4-12.2,12.2V339c0,6.8,5.4,12.2,12.2,12.2h252
+	c6.8,0,12.2-5.4,12.2-12.2v-56.4C392.2,276,386.8,270.4,380,270.4z" />
+	<g>
+		<rect x="132.4" y="301.8" style="fill:#E65336;" width="18.2" height="18.2" />
+		<rect x="165.4" y="301.8" style="fill:#E65336;" width="18.2" height="18.2" />
+		<rect x="198.6" y="301.8" style="fill:#E65336;" width="18.2" height="18.2" />
+	</g>
+	<rect x="151.8" y="402.2" style="fill:#527F99;" width="204.4" height="17.2" />
+	<g>
+		<rect x="242" y="377.4" style="fill:#0B2C48;" width="24" height="30.2" />
+		<rect x="225.6" y="399.8" style="fill:#0B2C48;" width="56.6" height="21.8" />
+	</g>
+</svg>
